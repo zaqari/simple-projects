@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e1c2f49-dece-4e1e-9660-673148b2f5ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/.idea/NLPgen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/.idea/NLPgen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/datasets/yelp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/datasets/yelp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/lstm.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/lstm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/seq2seq.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/seq2seq.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/yelp_loader.py" beforeDir="false" afterPath="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/yelp_loader.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/yelp_loader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NLP/EncoderDecoder/EncoderDecoder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="46" lean-forward="true" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/seq2seq.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="899">
+              <caret line="176" column="83" selection-start-line="176" selection-start-column="83" selection-end-line="176" selection-end-column="83" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/NLPhelperGEN" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LunarLander/lunar_lander.py" />
+        <option value="$PROJECT_DIR$/Taxi-QTable/taxi.py" />
+        <option value="$PROJECT_DIR$/AtariGamer/atari_buddy.py" />
+        <option value="$PROJECT_DIR$/cartpole/cartpole_lesson.py" />
+        <option value="$PROJECT_DIR$/NLP/LSTMSentiment/LSTMSentiment.py" />
+        <option value="$PROJECT_DIR$/NLP/SimpleSentiment/SimpleSentiment.py" />
+        <option value="$PROJECT_DIR$/machine vision/Taxi-QTable/taxi.py" />
+        <option value="$PROJECT_DIR$/NLP/EncoderDecoder/EncoderDecoder.py" />
+        <option value="$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/seq2seq.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="850" />
+    <option name="y" value="23" />
+    <option name="width" value="590" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DMA Project Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMA Project Folder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DMA Project Folder" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DMA Project Folder" type="462c0819:PsiDirectoryNode" />
+              <item name="NLP" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e1c2f49-dece-4e1e-9660-673148b2f5ef" name="Default Changelist" comment="" />
+      <created>1557242204239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557242204239</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="850" y="23" width="590" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3649635" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LunarLander/lunar_lander.py" />
+    <entry file="file://$PROJECT_DIR$/Taxi-QTable/taxi.py" />
+    <entry file="file://$PROJECT_DIR$/AtariGamer/atari_buddy.py" />
+    <entry file="file://$PROJECT_DIR$/cartpole/cartpole_lesson.py" />
+    <entry file="file://$PROJECT_DIR$/NLP/LSTMSentiment/LSTMSentiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/SimpleSentiment/SimpleSentiment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/yelp_loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine vision/Taxi-QTable/taxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLPhelperGEN/NLPhelperGEN/seq2seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="899">
+          <caret line="176" column="83" selection-start-line="176" selection-start-column="83" selection-end-line="176" selection-end-column="83" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/EncoderDecoder/EncoderDecoder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="46" lean-forward="true" selection-start-line="51" selection-start-column="46" selection-end-line="51" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
